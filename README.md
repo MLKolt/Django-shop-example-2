@@ -33,7 +33,7 @@
 
 - **Языки:** Python 3, HTML5, CSS3.
 - **Фреймворк:** Django.
-- **База данных:** SQLite (по умолчанию), PostgreSQL (поддерживается).
+- **База данных:** SQLite.
 - **Фоновые задачи и уведомления:** Celery, RabbitMQ, Flower.
 - **Платёжная система:** Stripe.
 - **Инструменты и библиотеки:** Django ORM, Django Admin, django-parler, django-localflavor, Stripe API.
